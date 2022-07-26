@@ -1,0 +1,12 @@
+{
+  "name": "PhaserMessAround",
+  "version": "1.0.0",
+  "description": "sandbox",
+  "main": "index.js",
+  "repository": "https://github.com/RyanChadly/PhaserMessAround.git",
+  "author": "Chadly, Ryan <102766472+RyanChadly@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
